@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="60" viewBox="0 0 160 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="40" font-family="Arial" font-weight="900" font-size="36" fill="#FF4B4B">
+    EMC
+  </text>
+  <circle cx="120" cy="25" r="8" fill="#FF4B4B" opacity="0.2"/>
+  <circle cx="120" cy="25" r="4" fill="#FF4B4B"/>
+</svg> 
